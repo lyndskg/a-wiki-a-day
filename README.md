@@ -1,6 +1,10 @@
 # a-wiki-a-day
 
-a-wiki-a-day is an innovative web and iOS app that allows users to subscribe to a daily email, text, or push notification containing an interesting Wikipedia page or link. The app utilizes a random article generator using the Wikipedia API, but its uniqueness lies in using Machine Learning (ML) to filter and fine-tune articles, tailoring them to the individual interests of each user. By considering criteria such as category, popularity, length, keywords, geographic or historical relevance, and user feedback, a-wiki-a-day delivers the most personalized and captivating article recommendations to its users.
+a-wiki-a-day is an innovative web and iOS app that allows users to subscribe to a daily email, text, or push notification containing an interesting Wikipedia page or link. 
+
+The app utilizes a random article generator using the Wikipedia API, but its uniqueness lies in using Machine Learning (ML) to filter and fine-tune articles, tailoring them to the individual interests of each user. 
+
+By considering criteria such as category, popularity, length, keywords, geographic or historical relevance, and user feedback, a-wiki-a-day delivers the most personalized and captivating article recommendations to its users.
 
 ## Key Features:
 1. Random Article Generator: a-wiki-a-day's core functionality is the random article generator, which fetches a Wikipedia page or link using the Wikipedia API.
